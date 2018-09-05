@@ -1,4 +1,4 @@
-# PcoinICO
+PcoinICO
 
 Token Info:
 Ticker: Pcoin
