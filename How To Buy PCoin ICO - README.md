@@ -34,5 +34,5 @@ Stage 3 - Not yet activated
 0.01 ETH = 300 PCoin
 
 Send ETH to 0x54fafe3442d050c022b7818e50ab448303e47d30 [Our Only Smart Contract]
-Gas: 100,000 GWEI: check https://ethgasstation.info/
+Gas: 100,000 GWEI: 50 or check https://ethgasstation.info/
 Done – Check your wallet and HODL. Think Long Term as we believe this is a standard project with a real world use case.
