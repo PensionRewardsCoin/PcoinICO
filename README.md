@@ -5,15 +5,37 @@ The platform fully utilizes the capabilities of Blockchain where you could earn 
 
 $Pcoin is usable worldwide – Use it to pay hired freelancers on the platform [crypto token for freelancers and employees], exchange on Crypto trading sites, or exchange into your preferred fiat currency and lots more.
 
-Pcoin is going to be issued with a limited amount, therefore, once Pcoin spread globally, its value will multiply rapidly, producing a large profit for investors/freelancers.
-
 Follow Our only Media Platforms:
-Twitter: https://twitter.com/PensionCoin
-Join Telegram Chat: https://t.me/pensioncoin
-Subscribe To Channel: https://t.me/pensionrewards
-Medium: https://medium.com/@pensioncoin
-BitcoinTalk ANN: https://bitcointalk.org/index.php?topic=4995356
 Visit Website: https://pensionrewards.com
+
+Twitter: https://twitter.com/PensionCoin
+
+LinkedIn: https://www.linkedin.com/company/pensionrewards/
+
+Bittube Channel: https://bit.tube/pensionrewards
+
+Join Telegram Chat: https://t.me/pensioncoin
+
+Telegram Channel: https://t.me/pensionrewards
+
+Youtube: https://www.youtube.com/channel/UChOTUSnIxGdex0aezU_9L4Q
+
+SteemBlog: https://steemit.com/@pensionrewards
+
+GitHub: https://github.com/PensionRewardsCoin/PcoinICO
+
+BitcoinTalk ANN: https://bitcointalk.org/index.php?topic=4995356
+
+Altcointalk ANN: https://www.altcoinstalks.com/index.php?topic=49258
+
 WhitePaper: https://pensionrewards.com/PensionRewardsCoin-WhitePaper.pdf
+
 Support: support@pensionrewards.com
+
+Contact: contact@pensionrewards.com
+
 Hiring: hireme@pensionrewards.com
+
+Airdrop Form: https://goo.gl/RZiipF
+
+Telegram Bounty : https://t.me/pcoinbounty
